@@ -1,0 +1,6 @@
+{
+  "name": "VersaCareer AI",
+  "description": "AI-powered career intelligence platform that helps students and job seekers analyze resumes, identify skill gaps, and track personalized roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
